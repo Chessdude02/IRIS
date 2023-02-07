@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run IMPROVEDIRIS.py
+web: sh setup.sh && streamlit run iiris.py
